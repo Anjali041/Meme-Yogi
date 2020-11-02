@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Memeयोगी</string>
+    <string name="title_activity_home">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="message_error_authentication">The username or password are not correct. Please try again.</string>
+    <string name="message_error_authentication_connection">Connection error. Check your settings and try again.</string>
+    <string name="message_error_authentication_field_empty">Username or Password field cannot be left empty</string>
+    <string name="message_error_password_do_not_match">Passwords do not match</string>
+    <string name="message_error_invalid_email">Not a valid Email id</string>
+    <string name="message_error_small_password">Password should have minimum 8 characters</string>
+    <string name="message_error_no_number_in_password">Password should have minimum 1 number</string>
+
+    <string name="don_t_have_a_account_yet">Don\'t have a account yet</string>
+    <string name="signup">Signup</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="login"> Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_have_an_account">Already have an account</string>
+</resources>
